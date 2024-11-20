@@ -1,0 +1,120 @@
+<rss
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+	<channel>
+		<title>NYT > Sports</title>
+		<link>https://www.nytimes.com/section/sports</link>
+		<atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml" rel="self" type="application/rss+xml"/>
+		<description/>
+		<language>en-us</language>
+		<copyright>Copyright 2024 The New York Times Company</copyright>
+		<lastBuildDate>Tue, 05 Nov 2024 10:49:20 +0000</lastBuildDate>
+		<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+		<image>
+			<title>NYT > Sports</title>
+			<url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+			<link>https://www.nytimes.com/section/sports</link>
+		</image>
+		<item>
+			<title>What We Learned in Week 9 of the N.F.L. Season</title>
+			<link>https://www.nytimes.com/athletic/5896542/2024/11/04/lions-packers-saquon-barkley-eagles-hurdle/</link>
+			<guid isPermaLink="true">https://www.nytimes.com/athletic/5896542/2024/11/04/lions-packers-saquon-barkley-eagles-hurdle/</guid>
+			<atom:link href="https://www.nytimes.com/athletic/5896542/2024/11/04/lions-packers-saquon-barkley-eagles-hurdle/" rel="standout"/>
+			<description>One of the best plays of Saquon Barkley’s career put the Eagles running back in the Offensive Player of the Year conversation.</description>
+			<dc:creator>The New York Times</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+			<media:content height="1046" medium="image" url="https://static01.nyt.com/images/2024/11/03/multimedia/tamc-110324-saquon/tamc-110324-saquon-mediumSquareAt3X.jpg" width="1046"/>
+			<media:credit>Chris Szagola/Associated Press</media:credit>
+		</item>
+		<item>
+			<title>The Decades-Long Struggle That Made the Caitlin Clark Phenomenon Possible</title>
+			<link>https://www.nytimes.com/athletic/5892540/2024/11/04/caitlin-clark-iowa-indiana-fever/</link>
+			<guid isPermaLink="true">https://www.nytimes.com/athletic/5892540/2024/11/04/caitlin-clark-iowa-indiana-fever/</guid>
+			<atom:link href="https://www.nytimes.com/athletic/5892540/2024/11/04/caitlin-clark-iowa-indiana-fever/" rel="standout"/>
+			<description>Before Clark turbocharged the popularity of women’s basketball, a foundation had to be built.</description>
+			<dc:creator>The New York Times</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/03/multimedia/tamc-110324-caitlin/tamc-110324-caitlin-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Andy Lyons/Getty Images</media:credit>
+		</item>
+		<item>
+			<title>Ranking 134 College Football Teams After a Week Full of Surprising Losses</title>
+			<link>https://www.nytimes.com/athletic/5896558/2024/11/04/college-football-fbs-team-rankings-cfp/</link>
+			<guid isPermaLink="true">https://www.nytimes.com/athletic/5896558/2024/11/04/college-football-fbs-team-rankings-cfp/</guid>
+			<atom:link href="https://www.nytimes.com/athletic/5896558/2024/11/04/college-football-fbs-team-rankings-cfp/" rel="standout"/>
+			<description>Texas A&M, Iowa State and Clemson were among the top 25 teams to fall to unranked opponents.</description>
+			<dc:creator>The New York Times</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/04/multimedia/tamc-11024-ashton-boise/tamc-11024-ashton-boise-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Loren Orr/Getty Images</media:credit>
+		</item>
+		<item>
+			<title>Is Juan Soto Worth $600 Million? We’re About to Find Out.</title>
+			<link>https://www.nytimes.com/athletic/5893223/2024/11/04/mlb-top-free-agents-juan-soto-contract/</link>
+			<guid isPermaLink="true">https://www.nytimes.com/athletic/5893223/2024/11/04/mlb-top-free-agents-juan-soto-contract/</guid>
+			<atom:link href="https://www.nytimes.com/athletic/5893223/2024/11/04/mlb-top-free-agents-juan-soto-contract/" rel="standout"/>
+			<description>The average annual value of Soto’s next contract could surpass a record set by Shohei Ohtani, a columnist for The Athletic writes.</description>
+			<dc:creator>The New York Times</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+			<media:content height="683" medium="image" url="https://static01.nyt.com/images/2024/11/03/multimedia/tamc-110324-soto/tamc-110324-soto-mediumSquareAt3X.jpg" width="682"/>
+			<media:credit>Jason Miller/Getty Images</media:credit>
+		</item>
+		<item>
+			<title>Is It Finally Time to Call the Detroit Lions the Super Bowl Favorites?</title>
+			<link>https://www.nytimes.com/athletic/5889153/2024/11/04/lions-nfl-trade-deadline-zadarius-smith/</link>
+			<guid isPermaLink="true">https://www.nytimes.com/athletic/5889153/2024/11/04/lions-nfl-trade-deadline-zadarius-smith/</guid>
+			<atom:link href="https://www.nytimes.com/athletic/5889153/2024/11/04/lions-nfl-trade-deadline-zadarius-smith/" rel="standout"/>
+			<description>Without the star pass rusher Aidan Hutchinson, the Lions might need more help, a columnist for The Athletic writes.</description>
+			<dc:creator>The New York Times</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/04/multimedia/tamc-110424-dan-campbell/tamc-110424-dan-campbell-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Kevin Sabitus/Getty Images</media:credit>
+		</item>
+		<item>
+			<title>Chaos Hit the Big 12. Deion Sanders Is Still Standing.</title>
+			<link>https://www.nytimes.com/athletic/5894474/2024/11/04/college-football-playoff-bubble-watch-deion-sanders-colorado/</link>
+			<guid isPermaLink="true">https://www.nytimes.com/athletic/5894474/2024/11/04/college-football-playoff-bubble-watch-deion-sanders-colorado/</guid>
+			<atom:link href="https://www.nytimes.com/athletic/5894474/2024/11/04/college-football-playoff-bubble-watch-deion-sanders-colorado/" rel="standout"/>
+			<description>Colorado has a real shot at the College Football Playoff, a columnist for The Athletic writes.</description>
+			<dc:creator>The New York Times</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+			<media:content height="1676" medium="image" url="https://static01.nyt.com/images/2024/11/03/multimedia/tamc-110324-deion/tamc-110324-deion-mediumSquareAt3X.jpg" width="1676"/>
+			<media:credit>Christian Petersen/Getty Images</media:credit>
+		</item>
+		<item>
+			<title>Angel Reese and Caitlin Clark Left. Enter Paige Bueckers and JuJu Watkins.</title>
+			<link>https://www.nytimes.com/athletic/5891696/2024/11/04/paige-bueckers-juju-watkins-uconn-usc-basketball/</link>
+			<guid isPermaLink="true">https://www.nytimes.com/athletic/5891696/2024/11/04/paige-bueckers-juju-watkins-uconn-usc-basketball/</guid>
+			<atom:link href="https://www.nytimes.com/athletic/5891696/2024/11/04/paige-bueckers-juju-watkins-uconn-usc-basketball/" rel="standout"/>
+			<description>Women’s college basketball is having a “moment.” Two new stars can continue to build momentum for the sport.</description>
+			<dc:creator>The New York Times</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+			<media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/11/03/multimedia/tamc-110324-paige/tamc-110324-paige-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>G Fiume/Getty Images</media:credit>
+		</item>
+		<item>
+			<title>The N.F.L.’s Most Expensive Roster Needs to Be Torn Down</title>
+			<link>https://www.nytimes.com/athletic/5896052/2024/11/03/browns-chargers-jameis-winston-trade-deadline/</link>
+			<guid isPermaLink="true">https://www.nytimes.com/athletic/5896052/2024/11/03/browns-chargers-jameis-winston-trade-deadline/</guid>
+			<atom:link href="https://www.nytimes.com/athletic/5896052/2024/11/03/browns-chargers-jameis-winston-trade-deadline/" rel="standout"/>
+			<description>The Browns have invested $337 million on this team. They have two wins, a columnist for The Athletic writes.</description>
+			<dc:creator>The New York Times</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/03/multimedia/tamc-110324-winston/tamc-110324-winston-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Jason Miller/Getty Images</media:credit>
+		</item>
+		<item>
+			<title>A Runner Shares an Inside Look at the New York City Marathon</title>
+			<link>https://www.nytimes.com/athletic/5895654/2024/11/03/new-york-city-marathon-analysis/</link>
+			<guid isPermaLink="true">https://www.nytimes.com/athletic/5895654/2024/11/03/new-york-city-marathon-analysis/</guid>
+			<atom:link href="https://www.nytimes.com/athletic/5895654/2024/11/03/new-york-city-marathon-analysis/" rel="standout"/>
+			<description>A 15-time finisher of a course that traverses through all five boroughs writes about relishing the race from within it.</description>
+			<dc:creator>The New York Times</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 14:46:59 +0000</pubDate>
+			<media:content height="667" medium="image" url="https://static01.nyt.com/images/2024/11/04/multimedia/tamc-110424-nyc-marathon/tamc-110424-nyc-marathon-mediumSquareAt3X.jpg" width="667"/>
+			<media:credit>David Dee Delgado/AFP via Getty Images</media:credit>
+		</item>
+	</channel>
+</rss>

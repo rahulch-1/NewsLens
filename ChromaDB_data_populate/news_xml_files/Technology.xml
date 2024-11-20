@@ -1,0 +1,645 @@
+<rss
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+	<channel>
+		<title>NYT > Technology</title>
+		<link>https://www.nytimes.com/section/technology</link>
+		<atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"/>
+		<description/>
+		<language>en-us</language>
+		<copyright>Copyright 2024 The New York Times Company</copyright>
+		<lastBuildDate>Tue, 05 Nov 2024 10:50:00 +0000</lastBuildDate>
+		<pubDate>Tue, 05 Nov 2024 03:49:19 +0000</pubDate>
+		<image>
+			<title>NYT > Technology</title>
+			<url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+			<link>https://www.nytimes.com/section/technology</link>
+		</image>
+		<item>
+			<title>Right-Wing Groups Are Organizing on Telegram Ahead of Election Day</title>
+			<link>https://www.nytimes.com/2024/11/04/technology/telegram-right-wing-groups-election.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/04/technology/telegram-right-wing-groups-election.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/04/technology/telegram-right-wing-groups-election.html" rel="standout"/>
+			<description>Right-wing groups, which use Telegram to organize real-world actions, are urging followers to watch the polls and stand up for their rights, in a harbinger of potential chaos.</description>
+			<dc:creator>Paul Mozur, Adam Satariano, Aaron Krolik and Steven Lee Myers</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 19:00:33 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proud Boys</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt-elections-app</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/30/multimedia/TELEGRAM-ELECTION-Jan6-qvfk/TELEGRAM-ELECTION-Jan6-qvfk-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Jason Andrew for The New York Times</media:credit>
+			<media:description>Telegram played a small but significant role in the 2020 election as an organizing tool for planners of the Jan. 6 attack.</media:description>
+		</item>
+		<item>
+			<title>How Elon Musk’s X Account Dominates the Platform Ahead of the Election</title>
+			<link>https://www.nytimes.com/2024/11/03/technology/elon-musk-x-election.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/03/technology/elon-musk-x-election.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/03/technology/elon-musk-x-election.html" rel="standout"/>
+			<description>The billionaire has effectively become the star of his social media platform, transforming X into a reflection of his personal views before the election.</description>
+			<dc:creator>Kate Conger, Aaron Krolik, Santul Nerkar and Dylan Freedman</dc:creator>
+			<pubDate>Sun, 03 Nov 2024 10:02:37 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/01/multimedia/00x-elon-gcwb/00x-elon-gcwb-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Graham Dickie/The New York Times</media:credit>
+			<media:description>Elon Musk, who owns X, has posted more than 3,000 times on the site in the last month.</media:description>
+		</item>
+		<item>
+			<title>Nvidia Will Replace Intel in the Dow Jones Stock Index</title>
+			<link>https://www.nytimes.com/2024/11/01/technology/nvidia-intel-dow-jones-index.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/01/technology/nvidia-intel-dow-jones-index.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/01/technology/nvidia-intel-dow-jones-index.html" rel="standout"/>
+			<description>The change, starting next Friday, lifts a dominant player in artificial intelligence over its chip-making rival, which has struggled to keep up.</description>
+			<dc:creator>Kate Conger</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 23:30:34 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">S & P Dow Jones Indices</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Dow Jones Stock Average</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/01/multimedia/01NVIDIA-bpvh/01NVIDIA-bpvh-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Jim Wilson/The New York Times</media:credit>
+			<media:description>Nvidia’s market value of $3.32 trillion has far surpassed Intel’s.</media:description>
+		</item>
+		<item>
+			<title>Meta Permits Its A.I. Models to Be Used for U.S. Military Purposes</title>
+			<link>https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html" rel="standout"/>
+			<description>The shift in policy, covering government agencies and contractors working on national security, is intended to promote “responsible and ethical” innovations, the company said.</description>
+			<dc:creator>Mike Isaac</dc:creator>
+			<pubDate>Tue, 05 Nov 2024 00:57:51 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clegg, Nick</category>
+			<media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/11/04/business/04META-open-source/04META-open-source-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>David Paul Morris/Bloomberg</media:credit>
+			<media:description>Mark Zuckerberg, Meta’s chief executive, in September. Meta supports open-source artificial intelligence models that other developers, companies and governments can freely copy and distribute.</media:description>
+		</item>
+		<item>
+			<title>5 Reasons Early Voting Is Overwhelmed With Election Misinformation</title>
+			<link>https://www.nytimes.com/2024/11/04/technology/early-voting-election-misinformation.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/04/technology/early-voting-election-misinformation.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/04/technology/early-voting-election-misinformation.html" rel="standout"/>
+			<description>Misleading anecdotes and rumors are spreading faster, and with more ferocity, than in the run-ups to past presidential contests.</description>
+			<dc:creator>Stuart A. Thompson</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 16:28:13 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt-elections-app</category>
+			<media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/11/01/multimedia/xxdisinfo-earlyvoting-cfgv/xxdisinfo-earlyvoting-cfgv-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Ruth Fremson/The New York Times</media:credit>
+			<media:description>More states have embraced early voting and mail-in voting since 2020, inadvertently creating the kind of tense and confusing exchanges that spread wildly online before the facts are known.</media:description>
+		</item>
+		<item>
+			<title>New York Times Tech Workers Go on Strike</title>
+			<link>https://www.nytimes.com/2024/11/04/business/media/new-york-times-strike.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/04/business/media/new-york-times-strike.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/04/business/media/new-york-times-strike.html" rel="standout"/>
+			<description>The Times Tech Guild represents more than 600 software developers and others who run the back-end systems behind The Times’s digital operation.</description>
+			<dc:creator>Katie Robertson</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 22:41:06 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/04/multimedia/TIMES-TECH-sub-whbv/TIMES-TECH-sub-whbv-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>James Estrin/The New York Times</media:credit>
+			<media:description>Union workers outside The New York Times building on Monday.</media:description>
+		</item>
+		<item>
+			<title>No, Vote Spikes on Election Night Do Not Indicate Voter Fraud</title>
+			<link>https://www.nytimes.com/2024/11/01/technology/vote-spikes-election-night-voter-fraud.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/01/technology/vote-spikes-election-night-voter-fraud.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/01/technology/vote-spikes-election-night-voter-fraud.html" rel="standout"/>
+			<description>The false claim, which has circulated in recent elections, is based on a misunderstanding of how votes are collected and reported.</description>
+			<dc:creator>Stuart A. Thompson</dc:creator>
+			<pubDate>Sat, 02 Nov 2024 02:00:09 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+			<media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/10/24/multimedia/2024-10-23-disinfo-prebunk-topper-surge/2024-10-23-disinfo-prebunk-topper-surge-mediumSquareAt3X-v9.jpg" width="1000"/>
+			<media:credit>The New York Times</media:credit>
+		</item>
+		<item>
+			<title>How a Georgia Security Conference Became a Target of Election Deniers</title>
+			<link>https://www.nytimes.com/2024/11/01/technology/election-deniers-georgia.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/01/technology/election-deniers-georgia.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/01/technology/election-deniers-georgia.html" rel="standout"/>
+			<description>The gathering had nothing to do with the election. That didn’t stop conspiracy theorists from spreading falsehoods.</description>
+			<dc:creator>Stuart A. Thompson</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 20:27:24 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AFCEA International (Nonprofit)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/30/multimedia/xxdisinfo-conference-ztbq/xxdisinfo-conference-ztbq-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Nicole Craine for The New York Times</media:credit>
+			<media:description>Paul Wertz, a 61-year-old former paramedic and Navy reservist in Roswell, Ga., has organized security conferences since 2020.</media:description>
+		</item>
+		<item>
+			<title>This Group Refuses to Stop Tracking Disinformation</title>
+			<link>https://www.nytimes.com/2024/11/01/technology/election-disinformation.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/01/technology/election-disinformation.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/01/technology/election-disinformation.html" rel="standout"/>
+			<description>Though a larger coalition of fact checkers has disbanded, a team of students and researchers at the University of Washington in Seattle is still working to document how lies online threaten to undermine this year’s presidential race.</description>
+			<dc:creator>Steven Lee Myers and Stuart A. Thompson</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 20:09:02 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for an Informed Public</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stanford Internet Observatory</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Washington</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/01/multimedia/DISINFO-RESEACHERS-sub-fcwj/DISINFO-RESEACHERS-sub-fcwj-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Chona Kasinger for The New York Times</media:credit>
+			<media:description>Four years ago, researchers at the University of Washington were part of a larger coalition formed to combat claims by President Donald J. Trump and others that the 2020 election was rigged. Now, that coalition has disbanded.</media:description>
+		</item>
+		<item>
+			<title>Billionaire Game Theory + We Are Not Ready for A.G.I. + Election Betting Markets Get Weird</title>
+			<link>https://www.nytimes.com/2024/11/01/podcasts/billionaire-game-theory-we-are-not-ready-for-agi-election-betting-markets-get-weird.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/01/podcasts/billionaire-game-theory-we-are-not-ready-for-agi-election-betting-markets-get-weird.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/01/podcasts/billionaire-game-theory-we-are-not-ready-for-agi-election-betting-markets-get-weird.html" rel="standout"/>
+			<description>“If I had $1 billion, how would I try to influence the results of this election?”</description>
+			<dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Jen Poyant, Chris Wood, Dan Powell, Marion Lozano and Diane Wong</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 10:00:16 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/01/podcasts/01hardfork-bezos-treatment/01hard-fork-billionaires-treatment-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Photo Illustration by The New York Times; Photo: Clodagh Kilcoyne/Reuters</media:credit>
+		</item>
+		<item>
+			<title>What if A.I. Is Actually Good for Hollywood?</title>
+			<link>https://www.nytimes.com/2024/11/01/magazine/ai-hollywood-movies-cgi.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/01/magazine/ai-hollywood-movies-cgi.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/01/magazine/ai-hollywood-movies-cgi.html" rel="standout"/>
+			<description>It’s already powering remarkable visual innovations, like in the new movie “Here.” But boosters think that’s just the beginning.</description>
+			<dc:creator>Devin Gordon</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 09:04:30 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Runway AI</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+		</item>
+		<item>
+			<title>Apple’s Quarterly Profit Down Because of Tax Payment in Europe</title>
+			<link>https://www.nytimes.com/2024/10/31/technology/apple-profit-earnings.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/31/technology/apple-profit-earnings.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/31/technology/apple-profit-earnings.html" rel="standout"/>
+			<description>Sales for the iPhone maker were up 6 percent to to $94.93 billion. But a $14.4 billion tax bill cut profits that would have topped expectations.</description>
+			<dc:creator>Tripp Mickle</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 22:24:13 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/31/multimedia/31apple-2-qkhw/31apple-2-qkhw-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Amy Osborne for The New York Times</media:credit>
+			<media:description>Apple’s delay with A.I. didn’t slow down its business</media:description>
+		</item>
+		<item>
+			<title>Intel Posts $16.6 Billion Quarterly Loss, Its Biggest Ever</title>
+			<link>https://www.nytimes.com/2024/10/31/technology/intel-earnings-loss.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/31/technology/intel-earnings-loss.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/31/technology/intel-earnings-loss.html" rel="standout"/>
+			<description>The Silicon Valley chip maker has struggled to turn around its fortunes after missing opportunities and poor execution.</description>
+			<dc:creator>Don Clark</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 21:35:56 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gelsinger, Patrick</category>
+			<media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/31/multimedia/31intel-mwvq/31intel-mwvq-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Anastasiia Sapon for The New York Times</media:credit>
+			<media:description>Intel said its loss for the third quarter totaled $16.6 billion.</media:description>
+		</item>
+		<item>
+			<title>Elon Musk’s xAI in Funding Talks That Could Value Company at $40 Billion</title>
+			<link>https://www.nytimes.com/2024/10/31/technology/elon-musk-xai-valuation.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/31/technology/elon-musk-xai-valuation.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/31/technology/elon-musk-xai-valuation.html" rel="standout"/>
+			<description>The financing efforts follow that of rival OpenAI, which recently closed a funding round that valued it at $157 billion.</description>
+			<dc:creator>Mike Isaac and Cade Metz</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 21:10:29 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X.ai Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/31/multimedia/31musk-xai-tpjk/31musk-xai-tpjk-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>David Swanson/Reuters</media:credit>
+			<media:description>Elon Musk’s xAI could be valued at as much as $40 billion, although financing talks are in the early stages.</media:description>
+		</item>
+		<item>
+			<title>OpenAI Launches ChatGPT Search Engine</title>
+			<link>https://www.nytimes.com/2024/10/31/technology/chatgpt-openai-search-engine.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/31/technology/chatgpt-openai-search-engine.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/31/technology/chatgpt-openai-search-engine.html" rel="standout"/>
+			<description>The popular online chatbot can now access and deliver information from across the internet in real time, including news, stock prices and sports scores.</description>
+			<dc:creator>Cade Metz</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 21:47:32 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/31/business/31CHATGPT-SEARCH-1-06/31CHATGPT-SEARCH-1-06-mediumSquareAt3X.png" width="1800"/>
+			<media:credit>OpenAI</media:credit>
+			<media:description>The new search engine is available beginning today for people who use ChatGPT Plus.</media:description>
+		</item>
+		<item>
+			<title>Why a Memphis Community Is Fighting Elon Musk’s Supercomputer</title>
+			<link>https://www.nytimes.com/2024/10/31/business/energy-environment/elon-musk-ai-memphis-pollution.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/31/business/energy-environment/elon-musk-ai-memphis-pollution.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/31/business/energy-environment/elon-musk-ai-memphis-pollution.html" rel="standout"/>
+			<description>Residents say Mr. Musk’s data center for artificial intelligence is compounding their pollution burden and adding stress on the local electrical grid.</description>
+			<dc:creator>Ivan Penn and Kate Conger</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 16:41:52 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X.ai Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Supercomputers</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Memphis (Tenn)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tennessee Valley Authority</category>
+			<media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/30/multimedia/MUSK-POWER-06-qvwb/MUSK-POWER-06-qvwb-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Whitten Sabbatini for The New York Times</media:credit>
+			<media:description>The scale of potential power consumption from an xAI supercomputer center meant the plan required approval from the Tennessee Valley Authority, which operates the electric grid for much of the region.</media:description>
+		</item>
+		<item>
+			<title>Election Falsehoods Take Off on YouTube as It Looks the Other Way</title>
+			<link>https://www.nytimes.com/2024/10/31/technology/youtube-election-conspiracy-theories-misinformation.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/31/technology/youtube-election-conspiracy-theories-misinformation.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/31/technology/youtube-election-conspiracy-theories-misinformation.html" rel="standout"/>
+			<description>The video site removed 2020 misinformation, fearing real-world harm. Now it’s amplifying and profiting from 2024 falsehoods, researchers said.</description>
+			<dc:creator>Nico Grant</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 13:30:59 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Media Matters for America</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Benny</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shapiro, Benjamin A (1984- )</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patel, Kashyap</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt-elections-app</category>
+			<media:content height="900" medium="image" url="https://static01.nyt.com/images/2024/10/28/autossell/mobile-grid-copy/mobile-grid-copy-mediumSquareAt3X.jpg" width="900"/>
+		</item>
+		<item>
+			<title>Meta Earnings Show Revenue Increase, Even as Spending Spree Continues</title>
+			<link>https://www.nytimes.com/2024/10/30/technology/meta-earnings-artificial-intelligence.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/technology/meta-earnings-artificial-intelligence.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/technology/meta-earnings-artificial-intelligence.html" rel="standout"/>
+			<description>The Silicon Valley company, which owns Facebook, Instagram and WhatsApp, said it does not plan to slow down its investments anytime soon.</description>
+			<dc:creator>Mike Isaac</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 17:11:47 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Reality (Computers)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/30/multimedia/30META-EARNINGS-1-vtql/30META-EARNINGS-1-vtql-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Jim Wilson/The New York Times</media:credit>
+			<media:description>Meta’s Meta Quest headset. The company reported double-digit revenue and profit growth for the third quarter.</media:description>
+		</item>
+		<item>
+			<title>Microsoft Earnings Show Quarterly Revenue Is Up 16% to $65.6 Billion</title>
+			<link>https://www.nytimes.com/2024/10/30/technology/microsoft-quarterly-revenue-profits.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/technology/microsoft-quarterly-revenue-profits.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/technology/microsoft-quarterly-revenue-profits.html" rel="standout"/>
+			<description>The company’s profit increased 11 percent to $24.7 billion, beating Wall Street’s expectations and its own predictions.</description>
+			<dc:creator>Karen Weise</dc:creator>
+			<pubDate>Wed, 30 Oct 2024 23:18:49 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadella, Satya</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/30/multimedia/30MICROSOFT-EARNINGS-1-pqvt/30MICROSOFT-EARNINGS-1-pqvt-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Grant Hindsley for The New York Times</media:credit>
+			<media:description>Surface notebooks, powered by artificial intelligence, at a Microsoft event in May. The company has bet heavily on A.I. through its investments in OpenAI.</media:description>
+		</item>
+		<item>
+			<title>Nishad Singh, a Top FTX Executive, Is Given No Prison Time After Cooperation</title>
+			<link>https://www.nytimes.com/2024/10/30/technology/nishad-singh-ftx-executive-sentencing.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/technology/nishad-singh-ftx-executive-sentencing.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/technology/nishad-singh-ftx-executive-sentencing.html" rel="standout"/>
+			<description>Mr. Singh, who was a top executive in Sam Bankman-Fried’s business empire, had pleaded guilty to fraud and campaign finance violations that contributed to the collapse of FTX.</description>
+			<dc:creator>Danielle Kaye and David Yaffe-Bellany</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 00:38:28 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alameda Research LLC</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Singh, Nishad</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/30/multimedia/30FTX-SINGH-sub-glqb/30FTX-SINGH-sub-glqb-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Jeenah Moon for The New York Times</media:credit>
+			<media:description>Nishad Singh, a former top executive of the FTX crypto exchange, left, and Claire Watanabe, who also worked at FTX, arriving at federal court in Manhattan on Wednesday.</media:description>
+		</item>
+		<item>
+			<title>Kraken Lays Off 15% of Workers and Names Arjun Sethi New Co-CEO</title>
+			<link>https://www.nytimes.com/2024/10/30/technology/kraken-cryptocurrency-layoff-ceo.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/technology/kraken-cryptocurrency-layoff-ceo.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/technology/kraken-cryptocurrency-layoff-ceo.html" rel="standout"/>
+			<description>The influential cryptocurrency exchange has undergone several reorganizations in recent years.</description>
+			<dc:creator>Mike Isaac, David Yaffe-Bellany and Ryan Mac</dc:creator>
+			<pubDate>Wed, 30 Oct 2024 22:31:31 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kraken (Payward Inc)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jesse (Cryptocurrency Executive)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ripley, David L</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sethi, Arjun (1983- )</category>
+			<media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/10/30/business/30KRACKEN-arjun-sethi/30KRACKEN-arjun-sethi-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Ramsey Cardy/Sportsfile for Collision, via Getty Images</media:credit>
+			<media:description>Kraken named Arjun Sethi, a longtime Silicon Valley executive, as co-chief executive.</media:description>
+		</item>
+		<item>
+			<title>Jeff Bezos, Elon Musk and the Billions of Ways to Influence an Election</title>
+			<link>https://www.nytimes.com/2024/10/30/technology/jeff-bezos-elon-musk-election.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/technology/jeff-bezos-elon-musk-election.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/technology/jeff-bezos-elon-musk-election.html" rel="standout"/>
+			<description>The world’s richest men have their own rocket fleets, their own media and their own schemes to succeed with Donald J. Trump.</description>
+			<dc:creator>David Streitfeld</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 18:23:35 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blue Origin</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt-elections-app</category>
+			<media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/10/29/business/MUSK-BEZOS-1/MUSK-BEZOS-1-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Nina Westervelt for The New York Times, Hiroko Masuike/The New York Times</media:credit>
+			<media:description>Jeff Bezos and Elon Musk have taken different approaches to the presidential election, with varying results.</media:description>
+		</item>
+		<item>
+			<title>Three Mile Island Is at the Center of Efforts to Expand Nuclear Capacity to Meet Rising Power Demand</title>
+			<link>https://www.nytimes.com/2024/10/30/business/energy-environment/three-mile-island-nuclear-energy.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/business/energy-environment/three-mile-island-nuclear-energy.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/business/energy-environment/three-mile-island-nuclear-energy.html" rel="standout"/>
+			<description>The Pennsylvania plant, site of the worst U.S. nuclear energy accident, is at the forefront of efforts to expand nuclear capacity to meet rising electricity demand.</description>
+			<dc:creator>Rebecca F. Elliott and George Etheredge for The New York Times</dc:creator>
+			<pubDate>Wed, 30 Oct 2024 15:05:49 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Three Mile Island (Pa)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Constellation Energy Group</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dominguez, Joseph</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/29/multimedia/THREE-MILE-ISLAND-01-wlvf/THREE-MILE-ISLAND-01-wlvf-mediumSquareAt3X.jpg" width="1800"/>
+			<media:description>Cooling towers at the Three Mile Island nuclear power plant in Pennsylvania, where Constellation Energy plans to restart a reactor it shut down in 2019.</media:description>
+		</item>
+		<item>
+			<title>How FTX’s Young Executives Shattered Their Parents</title>
+			<link>https://www.nytimes.com/2024/10/30/technology/ftx-executives-parents.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/technology/ftx-executives-parents.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/technology/ftx-executives-parents.html" rel="standout"/>
+			<description>As their children are sentenced for fraud, the parents of FTX’s top leaders have described their disbelief at how the crypto exchange upended their lives.</description>
+			<dc:creator>David Yaffe-Bellany</dc:creator>
+			<pubDate>Wed, 30 Oct 2024 20:35:02 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alameda Research LLC</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman, Joseph</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fried, Barbara (1951- )</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Caroline (1994- )</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Singh, Nishad</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gururaj Singh</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Zixiao (Gary)</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/25/multimedia/00ftx-parents-hlqf/00ftx-parents-hlqf-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Karsten Moran for The New York Times</media:credit>
+			<media:description>Sam Bankman-Fried’s parents, Joseph Bankman and Barbara Fried, are part of a group of parents who wrote letters pleading for leniency for their children involved in the FTX case.</media:description>
+		</item>
+		<item>
+			<title>Alphabet Revenue Jumps 15% to $88.3 Billion</title>
+			<link>https://www.nytimes.com/2024/10/29/technology/alphabet-google-earnings.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/29/technology/alphabet-google-earnings.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/29/technology/alphabet-google-earnings.html" rel="standout"/>
+			<description>The tech giant’s 34 percent increase in quarterly profit topped Wall Street expectations, driven by its advertising and cloud businesses.</description>
+			<dc:creator>Nico Grant</dc:creator>
+			<pubDate>Tue, 29 Oct 2024 21:57:42 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/29/multimedia/ALPHABET-EARNINGS-1-kzbm/ALPHABET-EARNINGS-1-kzbm-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Amy Osborne/The New York Times</media:credit>
+			<media:description>Alphabet, the parent company of Google, continued making large investments in data centers, chips and other hardware in the third quarter.</media:description>
+		</item>
+		<item>
+			<title>Trump Family Members and Biden Aides Among China Hack Targets</title>
+			<link>https://www.nytimes.com/2024/10/29/us/politics/trump-biden-hacking-china.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/29/us/politics/trump-biden-hacking-china.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/29/us/politics/trump-biden-hacking-china.html" rel="standout"/>
+			<description>Phones used by Jared Kushner and Eric Trump were among those that hackers sought access to as part of a counterintelligence effort carried out by a hacking group associated with China.</description>
+			<dc:creator>Devlin Barrett, Ben Protess and Maggie Haberman</dc:creator>
+			<pubDate>Tue, 29 Oct 2024 20:41:32 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Verizon Communications Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Eric F (1984- )</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/29/multimedia/29dc-hacking-kcth/29dc-hacking-kcth-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Kenny Holston/The New York Times</media:credit>
+			<media:description>Eric Trump was one of those believed to have been targeted by Chinese hackers.</media:description>
+		</item>
+		<item>
+			<title>TSMC Chips Ended Up in Devices Made by China’s Huawei Despite U.S. Controls</title>
+			<link>https://www.nytimes.com/2024/10/29/business/tsmc-huawei-computer-chips.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/29/business/tsmc-huawei-computer-chips.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/29/business/tsmc-huawei-computer-chips.html" rel="standout"/>
+			<description>The U.S. government has tried to keep Chinese companies from obtaining certain advanced technologies, but concerns have been growing that some products may have been routed to Huawei.</description>
+			<dc:creator>Meaghan Tobin, Ana Swanson, John Liu and Amy Chang Chien</dc:creator>
+			<pubDate>Tue, 29 Oct 2024 18:04:02 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taiwan Semiconductor Manufacturing Company Ltd</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bitmain Technologies Ltd</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+			<media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/00TSMC-HUAWEI-cqtk/00TSMC-HUAWEI-cqtk-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Alex Plavevski/EPA, via Shutterstock</media:credit>
+			<media:description>The Huawei store in Shanghai. The U.S. government has blocked Huawei from buying products made with American technology.</media:description>
+		</item>
+		<item>
+			<title>G.M.’s Electric Vehicle Sales Surge as Ford Loses Billions</title>
+			<link>https://www.nytimes.com/2024/10/29/business/ford-general-motors-electric-vehicles.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/29/business/ford-general-motors-electric-vehicles.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/29/business/ford-general-motors-electric-vehicles.html" rel="standout"/>
+			<description>Ford is struggling to make money on battery-powered models while General Motors, which started more slowly, says it is getting close to that goal.</description>
+			<dc:creator>Neal E. Boudette</dc:creator>
+			<pubDate>Wed, 30 Oct 2024 15:23:01 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Utility Vehicles and Light Trucks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ford Motor Co</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/29/multimedia/AUTOS-01-fmqv/AUTOS-01-fmqv-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>David Walter Banks for The New York Times</media:credit>
+			<media:description>Ford’s F-150 Lightning truck beat the Tesla Cybertruck to the market by more than a year.</media:description>
+		</item>
+		<item>
+			<title>How a Data Center Divided a Small Missouri Town</title>
+			<link>https://www.nytimes.com/2024/10/29/technology/data-center-peculiar-missouri.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/29/technology/data-center-peculiar-missouri.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/29/technology/data-center-peculiar-missouri.html" rel="standout"/>
+			<description>Residents of Peculiar battled developers and some of their local officials to keep a giant data center out of their community.</description>
+			<dc:creator>Eli Tan and Graham Dickie</dc:creator>
+			<pubDate>Tue, 29 Oct 2024 13:00:20 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peculiar (Mo)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Nondisclosure Agreements</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Iconiq Capital LLC</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Diode Ventures LLC</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Iron Point Partners LLC</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/07/multimedia/PECULIAR-DATA-1-01-mfkv/PECULIAR-DATA-1-01-mfkv-mediumSquareAt3X.jpg" width="1800"/>
+			<media:description>Chad Buck, rear center, in a prayer circle with his family on land that was slated to be developed into a data center.</media:description>
+		</item>
+	</channel>
+</rss>

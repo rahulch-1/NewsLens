@@ -1,0 +1,491 @@
+<rss
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+	<channel>
+		<title>NYT Health</title>
+		<link>https://www.nytimes.com/section/health</link>
+		<atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml" rel="self" type="application/rss+xml"/>
+		<description/>
+		<language>en-us</language>
+		<copyright>Copyright 2024 The New York Times Company</copyright>
+		<lastBuildDate>Tue, 05 Nov 2024 10:46:01 +0000</lastBuildDate>
+		<pubDate>Tue, 05 Nov 2024 05:13:33 +0000</pubDate>
+		<image>
+			<title>NYT > Health</title>
+			<url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+			<link>https://www.nytimes.com/section/health</link>
+		</image>
+		<item>
+			<title>Cost of Mpox Shot Deters Americans at Risk, Critics Say</title>
+			<link>https://www.nytimes.com/2024/11/04/health/mpox-vaccine-cost-insurance.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/04/health/mpox-vaccine-cost-insurance.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/04/health/mpox-vaccine-cost-insurance.html" rel="standout"/>
+			<description>The epidemic in Africa continues to grow, prompting fears of another outbreak in the U.S. But the vaccine is no longer free, and vulnerable people are going without.</description>
+			<dc:creator>Apoorva Mandavilli</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 20:02:31 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Sexually Transmitted Diseases</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bavarian Nordic AS</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Medi-Cal</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burundi</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/04/multimedia/04mpox-02-lqwm/04mpox-02-lqwm-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Alisha Jucevic for The New York Times</media:credit>
+		</item>
+		<item>
+			<title>1 in 4 Child Deaths After E.R. Visits Are Preventable, Study Finds</title>
+			<link>https://www.nytimes.com/2024/11/01/health/child-deaths-emergency-room.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/01/health/child-deaths-emergency-room.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/01/health/child-deaths-emergency-room.html" rel="standout"/>
+			<description>If every emergency room in the United States were fully prepared to treat children, thousands of lives would be saved and the cost would be $11.84 or less per child, researchers found.</description>
+			<dc:creator>Emily Baumgaertner</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 15:00:34 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JAMA Network Open</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/01/multimedia/01-ER-CHILD-DEATHS-02-tkwz/01-ER-CHILD-DEATHS-02-tkwz-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Hiroko Masuike/The New York Times</media:credit>
+			<media:description>Data from 4,840 emergency rooms across the United States found that 842 of them — less than one-fifth — were considered well-prepared for pediatric emergencies.</media:description>
+		</item>
+		<item>
+			<title>From AI to Musk’s Brain Chip, the F.D.A.’s Device Unit Faces Rapid Change</title>
+			<link>https://www.nytimes.com/2024/11/01/health/fda-ai-elon-musk-medical-devices.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/01/health/fda-ai-elon-musk-medical-devices.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/01/health/fda-ai-elon-musk-medical-devices.html" rel="standout"/>
+			<description>The new director overseeing medical devices will confront criticisms about hasty approvals as she ushers in revolutionary technology.</description>
+			<dc:creator>Christina Jewett</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 23:57:56 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alcon Vision LLC</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ARNOLD &amp; PORTER</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Neuralink Corp</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Califf, Robert M</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shuren, Allison W</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shuren, Jeffrey E</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/30/multimedia/00FDA-NEXT-01-ftgj/00FDA-NEXT-01-ftgj-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Ian C. Bates for The New York Times</media:credit>
+			<media:description>A brain-computer implant device that has allowed its user, Casey Harrell of California, who has ALS, to be able to speak with the assistance of an A.I.-powered computer voice. Blackrock Neurotech made the device for research purposes.</media:description>
+		</item>
+		<item>
+			<title>How a Second Trump Term Could Recast Public Health</title>
+			<link>https://www.nytimes.com/2024/10/31/health/trump-kennedy-health.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/31/health/trump-kennedy-health.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/31/health/trump-kennedy-health.html" rel="standout"/>
+			<description>Breaking up the C.D.C., moving funds from the N.I.H. — conservatives have floated changes should Mr. Trump regain office.</description>
+			<dc:creator>Apoorva Mandavilli</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 01:21:06 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President's Emergency Plan for AIDS Relief</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt-elections-app</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/28trump-public-health-01-mkfv/28trump-public-health-01-mkfv-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Kenny Holston/The New York Times</media:credit>
+			<media:description>Robert F. Kennedy Jr. appearing with Donald Trump at a campaign rally in Duluth, Ga., this month. Mr. Trump’s embrace of his vaccine skepticism suggests there will be significant changes to the nation’s public health priorities should Mr. Trump regain the presidency.</media:description>
+		</item>
+		<item>
+			<title>Sugar Rationing Lowered Diabetes and Hypertension in British Children</title>
+			<link>https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html" rel="standout"/>
+			<description>British data shows that children conceived and born during a period of sugar rationing were less likely to develop diabetes or high blood pressure later in life.</description>
+			<dc:creator>Gina Kolata</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 22:42:22 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Sugar</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rationing and Allocation of Resources</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hypertension</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UK Biobank Ltd</category>
+			<media:content height="1772" medium="image" url="https://static01.nyt.com/images/2024/10/31/science/31-sugar-promo/31-sugar-promo-mediumSquareAt3X.jpg" width="1772"/>
+			<media:credit>Monty Fresco/Topical Press Agency, via Getty Images</media:credit>
+			<media:description>Children waiting for a sweetshop to open during a pause in sweets rationing in Britain in 1949.</media:description>
+		</item>
+		<item>
+			<title>Ozempic and Wegovy Ease Knee Osteoarthritis Pain in Large Study</title>
+			<link>https://www.nytimes.com/2024/10/30/health/ozempic-wegovy-knee-pain-osteoarthritis.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/health/ozempic-wegovy-knee-pain-osteoarthritis.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/health/ozempic-wegovy-knee-pain-osteoarthritis.html" rel="standout"/>
+			<description>A large trial showed that semaglutide, sold as Ozempic for diabetes and as Wegovy for obesity, was better than any current medications in alleviating symptoms.</description>
+			<dc:creator>Gina Kolata</dc:creator>
+			<pubDate>Fri, 01 Nov 2024 12:31:00 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">GLP-1 RAs (Drug)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Knees</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Osteoarthritis</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New England Journal of Medicine</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novo Nordisk A/S</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Ozempic (Drug)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/30arthritis-sub/19sci-obesity-drugs-01-vplf-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>M. Scott Brauer for The New York Times</media:credit>
+			<media:description>A study of 407 people with obesity and knee osteoarthritis found those who got semaglutide had an average reduction of 41.7 points on a 100-point scale while those who got the placebo had a reduction of 27.5 points.</media:description>
+		</item>
+		<item>
+			<title>Can John Green Make You Care About Tuberculosis?</title>
+			<link>https://www.nytimes.com/2024/10/30/science/john-green-tuberculosis-nerdfighters.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/science/john-green-tuberculosis-nerdfighters.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/science/john-green-tuberculosis-nerdfighters.html" rel="standout"/>
+			<description>With a forthcoming nonfiction book and an online army of Nerdfighters, the young-adult author aims to eliminate an entirely curable global scourge.</description>
+			<dc:creator>Maddie Bender</dc:creator>
+			<pubDate>Wed, 30 Oct 2024 05:00:09 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Tuberculosis</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johnson &amp; Johnson</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Partners in Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, John (1977- )</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra Leone</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Fault in Our Stars (Book)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+			<media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/00SCI-GREENTB-02-tvwp/00SCI-GREENTB-02-tvwp-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Lee Klafczynski for The New York Times</media:credit>
+			<media:description>John Green, the best selling author and YouTuber, wants to bridge an “empathy gap” for tuberculosis, which disproportionately affects people in sub-Saharan Africa, Eastern Europe and Asia.</media:description>
+		</item>
+		<item>
+			<title>Why Is Harris So Passionate About Abortion Rights? Her Past Work Holds Clues.</title>
+			<link>https://www.nytimes.com/2024/10/29/health/kamala-harris-abortion-rights.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/29/health/kamala-harris-abortion-rights.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/29/health/kamala-harris-abortion-rights.html" rel="standout"/>
+			<description>For a politician who has been criticized for shifting positions on some issues, this is an area where she has shown unwavering conviction.</description>
+			<dc:creator>Heather Knight and Pam Belluck</dc:creator>
+			<pubDate>Tue, 29 Oct 2024 18:05:45 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2004</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt-elections-app</category>
+			<media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/29/multimedia/29HARRIS-ABORTION-01-blcz/29HARRIS-ABORTION-01-blcz-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Audra Melton for The New York Times</media:credit>
+			<media:description>Vice President Kamala Harris on the campaign trail in Marietta, Ga., last month. She has made abortion rights a centerpiece of her bid for the presidency.</media:description>
+		</item>
+		<item>
+			<title>The Rebellious Scientist Who Made Kamala Harris</title>
+			<link>https://www.nytimes.com/2024/10/28/science/shyamala-gopalan-kamala-harris-mother.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/28/science/shyamala-gopalan-kamala-harris-mother.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/28/science/shyamala-gopalan-kamala-harris-mother.html" rel="standout"/>
+			<description>The presidential candidate’s mother, Shyamala Gopalan Harris, was a breast cancer researcher whose egalitarian politics often bucked a patriarchal lab culture.</description>
+			<dc:creator>Benjamin Mueller</dc:creator>
+			<pubDate>Mon, 28 Oct 2024 20:51:43 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gopalan, Shyamala</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Breast Cancer</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt-elections-app</category>
+			<media:content height="1332" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/28shyamala-kamala-phbv/28shyamala-kamala-phbv-mediumSquareAt3X.jpg" width="1333"/>
+			<media:credit>Kamala Harris campaign, via Associated Press</media:credit>
+			<media:description>Kamala Harris with her mother, Shyamala Gopalan Harris, in 2007, during a Chinese New Year Parade.</media:description>
+		</item>
+		<item>
+			<title>Trump’s Embrace of RFK Jr. Puts Fluoride, Vaccines and Obamacare on the Agenda</title>
+			<link>https://www.nytimes.com/2024/11/04/us/politics/trump-rfk-health-fluoride-vaccines-aca.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/04/us/politics/trump-rfk-health-fluoride-vaccines-aca.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/04/us/politics/trump-rfk-health-fluoride-vaccines-aca.html" rel="standout"/>
+			<description>Donald Trump’s pledge to let Robert F. Kennedy Jr. “go wild on health” has put three issues on the agenda in the final days of the 2024 campaign.</description>
+			<dc:creator>Sheryl Gay Stolberg</dc:creator>
+			<pubDate>Mon, 04 Nov 2024 23:10:08 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Fluorides</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+			<media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/11/04/multimedia/04DC-TRUMP-FLOURIDE-lbqj/04DC-TRUMP-FLOURIDE-lbqj-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+			<media:description>Robert F. Kennedy Jr.</media:description>
+		</item>
+		<item>
+			<title>Richard A. Cash, Who Saved Millions From Dehydration, Dies at 83</title>
+			<link>https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html" rel="standout"/>
+			<description>He worked alongside another doctor to show that a simple rehydration therapy could check the ravages of cholera and other diarrhea-inducing diseases.</description>
+			<dc:creator>Clay Risen</dc:creator>
+			<pubDate>Sun, 03 Nov 2024 15:02:56 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cash, Richard A (1941-2024)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Cholera</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Diarrhea</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Health Service (US)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+		</item>
+		<item>
+			<title>Librarians Struggle With Mental Health After Traumatic Events at Work</title>
+			<link>https://www.nytimes.com/2024/10/31/well/mind/librarian-trauma-homeless-drugs-mental-illness.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/31/well/mind/librarian-trauma-homeless-drugs-mental-illness.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/31/well/mind/librarian-trauma-homeless-drugs-mental-illness.html" rel="standout"/>
+			<description>As libraries become public stages for social problems — homelessness, drug use, mental health — the people who work there are burning out.</description>
+			<dc:creator>Christina Caron</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 09:02:34 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/29/multimedia/WELL-LIBRARIAN-TRAUMA2-lkbt/WELL-LIBRARIAN-TRAUMA2-lkbt-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Laila Stevens for The New York Times</media:credit>
+			<media:description>Lauren Comito, the executive director of Urban Librarians Unite, has studied the trauma endured by library staff. In September, her organization began offering virtual peer-led support groups for U.S. library workers.</media:description>
+		</item>
+		<item>
+			<title>Does Kamala Harris Back Free Health Care for Illegal Immigrants?</title>
+			<link>https://www.nytimes.com/2024/10/30/health/harris-immigration-health-care-trump.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/health/harris-immigration-health-care-trump.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/health/harris-immigration-health-care-trump.html" rel="standout"/>
+			<description>Donald Trump and other Republicans have said repeatedly that she does. Her history on the issue is complicated.</description>
+			<dc:creator>Emily Baumgaertner and Margot Sanger-Katz</dc:creator>
+			<pubDate>Wed, 30 Oct 2024 18:42:44 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Deferred Action for Childhood Arrivals</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/05/multimedia/00-IMMIG-HEALTH-EXPLAINER-jgvh/00-IMMIG-HEALTH-EXPLAINER-jgvh-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Erin Schaff/The New York Times</media:credit>
+			<media:description>Since Vice President Kamala Harris announced her candidacy for president this year, her campaign has been evasive on the issue of medical coverage for undocumented immigrants. </media:description>
+		</item>
+		<item>
+			<title>Heart-Valve Patients Should Have Earlier Surgery, Study Suggests</title>
+			<link>https://www.nytimes.com/2024/10/30/health/heart-valve-surgery-aortic-stenosis.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/health/heart-valve-surgery-aortic-stenosis.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/health/heart-valve-surgery-aortic-stenosis.html" rel="standout"/>
+			<description>The results of a new clinical trial have overturned the “wait and see” approach that cardiologists have long favored for symptom-free patients.</description>
+			<dc:creator>Benjamin Mueller</dc:creator>
+			<pubDate>Wed, 30 Oct 2024 16:22:32 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+			<media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/29/science/29heart/29heart-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Zephyr/Science Source</media:credit>
+			<media:description>A CT scan of a 64-year-old patient with heart failure showing calcification of the aortic valve, bright white, in center, which can lead to aortic valve stenosis.</media:description>
+		</item>
+		<item>
+			<title>Was Stone-Age Scandinavia Struck by Plague?</title>
+			<link>https://www.nytimes.com/2024/10/30/science/archaeology-scandinavia-plague.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/30/science/archaeology-scandinavia-plague.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/30/science/archaeology-scandinavia-plague.html" rel="standout"/>
+			<description>New research by geneticists hints at the deadly work of Yersinia pestis 5,000 years ago.</description>
+			<dc:creator>Franz Lidz</dc:creator>
+			<pubDate>Thu, 31 Oct 2024 22:17:00 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Bubonic Plague</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Plague</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rats</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Fleas</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scandinavia</category>
+			<category domain="">archaeogenetics</category>
+		</item>
+		<item>
+			<title>Despite Covid ‘Amnesia,’ the Pandemic Simmers Beneath the 2024 Race</title>
+			<link>https://www.nytimes.com/2024/10/29/us/politics/trump-harris-covid-rfk-vaccines.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/29/us/politics/trump-harris-covid-rfk-vaccines.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/29/us/politics/trump-harris-covid-rfk-vaccines.html" rel="standout"/>
+			<description>Dueling Trump and Harris rallies outside Atlanta offer a case study in how anger and anxiety over Covid-19, a proxy for the larger debate over trust in government, have shaped the 2024 race.</description>
+			<dc:creator>Sheryl Gay Stolberg</dc:creator>
+			<pubDate>Tue, 29 Oct 2024 19:15:40 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt-elections-app</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/29/multimedia/29DC-ELECTION-COVID-hlmb/29DC-ELECTION-COVID-hlmb-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Kenny Holston/The New York Times</media:credit>
+			<media:description>Robert F. Kennedy Jr. spoke at a rally outside Atlanta last week for former President Donald J. Trump.</media:description>
+		</item>
+		<item>
+			<title>What Ants and Orcas Can Teach Us About Death</title>
+			<link>https://www.nytimes.com/2024/10/29/science/animals-death-monso.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/29/science/animals-death-monso.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/29/science/animals-death-monso.html" rel="standout"/>
+			<description>A philosopher journeys into the world of comparative thanatology, which explores how animals of all kinds respond to death and dying.</description>
+			<dc:creator>Emily Anthes</dc:creator>
+			<pubDate>Wed, 30 Oct 2024 13:43:56 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Emotions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+			<media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/29/multimedia/28SCI-CONVERSATION-ANIMALDEATH-bpfm/28SCI-CONVERSATION-ANIMALDEATH-bpfm-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Gianfranco Tripodo for The New York Times</media:credit>
+			<media:description>Susana Monsó, a philosopher of animal minds at the National Distance Education University in Madrid. “I’ve always been interested in those capacities that are understood to be uniquely human,” she said. “Death was a natural topic to pick up.”</media:description>
+		</item>
+		<item>
+			<title>How Taxpayers Are Helping Health Insurers Make Even Bigger Profits</title>
+			<link>https://www.nytimes.com/2024/10/28/us/healthcare-taxpayer-money-insurance.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/28/us/healthcare-taxpayer-money-insurance.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/28/us/healthcare-taxpayer-money-insurance.html" rel="standout"/>
+			<description>Local governments often face extra fees when employees get out-of-network medical care, but some don’t track the insurance charges or even know about them.</description>
+			<dc:creator>Chris Hamby</dc:creator>
+			<pubDate>Mon, 28 Oct 2024 14:51:44 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MultiPlan Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aetna Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CIGNA Corporation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Elevance Health Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+		</item>
+		<item>
+			<title>No E. Coli Found in Samples of McDonald’s Beef Patties, Officials Say</title>
+			<link>https://www.nytimes.com/2024/10/27/health/mcdonalds-ecoli-quarter-pounders.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/27/health/mcdonalds-ecoli-quarter-pounders.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/27/health/mcdonalds-ecoli-quarter-pounders.html" rel="standout"/>
+			<description>The company said it would put Quarter Pounders back on the menu, without the raw onions that were considered the likely source of the bacteria.</description>
+			<dc:creator>Teddy Rosenbluth</dc:creator>
+			<pubDate>Mon, 28 Oct 2024 05:23:17 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">E Coli (Bacteria)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Beef</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Meat</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Onions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McDonald's Corporation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+			<media:content height="939" medium="image" url="https://static01.nyt.com/images/2024/10/27/multimedia/27MCDONALDS-wkzl/27MCDONALDS-wkzl-mediumSquareAt3X.jpg" width="938"/>
+			<media:credit>David Zalubowski/Associated Press</media:credit>
+			<media:description>The electronic menu order board informed customers last week that all variations of the Quarter Pounder were off the menu at a McDonald’s drive-through in Littleton, Colo.</media:description>
+		</item>
+		<item>
+			<title>A Trans Researcher’s Pursuit of Better Data on Detransition</title>
+			<link>https://www.nytimes.com/2024/10/26/health/kinnon-mackinnon-detransition-research.html</link>
+			<guid isPermaLink="true">https://www.nytimes.com/2024/10/26/health/kinnon-mackinnon-detransition-research.html</guid>
+			<atom:link href="https://www.nytimes.com/2024/10/26/health/kinnon-mackinnon-detransition-research.html" rel="standout"/>
+			<description>Kinnon MacKinnon leads the world’s largest study on people who stop or reverse their gender transitions, a group embroiled in intense political fights.</description>
+			<dc:creator>Azeen Ghorayshi</dc:creator>
+			<pubDate>Sat, 26 Oct 2024 17:22:04 +0000</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+			<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/22/multimedia/SCI-CONVERSATION-MACKINNON-03-tkqz/SCI-CONVERSATION-MACKINNON-03-tkqz-mediumSquareAt3X.jpg" width="1800"/>
+			<media:credit>Laura Proctor for The New York Times</media:credit>
+		</item>
+	</channel>
+</rss>
